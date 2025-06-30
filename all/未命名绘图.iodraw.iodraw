@@ -165,7 +165,7 @@
         <mxCell id="psTjgajPh3VWZ4Z43lKV-19" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="psTjgajPh3VWZ4Z43lKV-16">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="psTjgajPh3VWZ4Z43lKV-20" value="Container" style="swimlane;swimlaneHead=1;swimlaneBody=1;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="psTjgajPh3VWZ4Z43lKV-20" value="Container" style="swimlane;swimlaneHead=1;swimlaneBody=1;horizontal=1;absoluteArcSize=0;" vertex="1" collapsed="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="370" width="90" height="30" as="geometry">
             <mxRectangle x="470" y="370" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
